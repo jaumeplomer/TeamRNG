@@ -1,0 +1,19 @@
+Scratch: https://scratch.mit.edu/
+Scratch és una eina per la qual el nivell requerit per començar és bastant bàsic. 
+Hi trobem diferents eines per aprendre a programar, i hi apareixen diferents funcions que anirem ajuntant per fer funcions més complexes.
+
+
+Checkio: https://checkio.org/
+Scratch és una plataforma per aprendre tant Python3 com JavaScript. 
+Es basa en un joc de nivell avançat on vas aprenent conceptes a cada nivell. 
+Cada nivell es un o més exercicis de programació que hauràs de completar per continuar avançant.
+
+
+CODEACADEMY:  https://www.codecademy.com/learn/learn-java // https://www.codecademy.com/learn/learn-python-3
+El següent nivell es codeacademy. Són cursos teòrics de 25 hores cadascun on podràs triar entre diferents llenguatges de programació. 
+Hem deixat els enllaços de Java i Python3.
+
+
+PÍLDORAS INFORMATICAS: https://www.pildorasinformaticas.es/course/curso-python/
+Finalment, tenim el nostre geni particular que ensenya programació a un nivell avançat, 
+començant des dels fonaments més bàsics i complicant els conceptes progressivament a cada video. 
