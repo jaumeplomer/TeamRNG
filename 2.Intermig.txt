@@ -1,0 +1,10 @@
+CodeCombat: https://codecombat.com/play
+Una evolució dels jocs per aprendre a programar del nivell inicial.
+
+
+Stencyl: http://www.stencyl.com/
+Un entorn per a desenvolupar jocs, un poc més avançat.
+
+
+CodingGame: https://www.codingame.com/home
+Una eina per a desenvolupar un joc, bastant complicat pero no imposible per als més avançats dins aquest rang.
