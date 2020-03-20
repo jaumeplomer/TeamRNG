@@ -1,0 +1,6 @@
+Rabbids-coding:
+
+https://register.ubisoft.com/rabbids-coding/es-ES
+
+Per el nivell i iniciació utilitzarem una aplicació que és més un joc que una IDE com a tal,
+i aquest està desenrotllat perquè els més petits puguin aprendre a programar de forma simple i divertida per ells.
